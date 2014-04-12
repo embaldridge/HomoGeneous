@@ -1,8 +1,8 @@
 # HomoNeutralis
 
-A novel by Ken Locey
+### A novel by Ken Locey
 
-A dystopian story written in working Python code that challenges identity, equality, property, and gender.
+### A dystopian story written in working Python code that challenges identity, equality, property, and gender.
 
 
 Q. Why write a story in unintelligible computing code?
