@@ -37,8 +37,10 @@ for each_day in for_as_long_as_anyone_can_remember:
     
     # everybody had equal chances for nearly everything they did
     everyone = len(a_town['folks'])
-    chance = 1/everyone # chance won over everyone 
-     
+    chance = 1/everyone # chance...won over everyone 
+    
+    # arguments for neutrality and social lotteries in chapter 1
+    
     for example in a_town: # like this
          
         we_both_might_want_the_same_job = True # and...
