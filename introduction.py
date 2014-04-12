@@ -7,7 +7,7 @@ import Chapter1
 
 """ Once upon a time, there was... """
 
-a_special_girl = ['XY'] complete androgen insensitivity syndrome
+a_special_girl = ['XY']
 a_special_guy = ['XY']
 
 some_men = [['m']]*100
