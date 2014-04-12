@@ -1,4 +1,4 @@
-#### HomoNeutralis
+# HomoNeutralis
 
 A novel by Ken Locey
 
