@@ -1,8 +1,8 @@
 # HomoNeutralis
 
-### A dystopian novel written in working Python code that challenges identity, equality, property, and gender.
+## A dystopian novel written in working Python code that challenges identity, equality, property, and gender.
 
-equal opportunities != equal outcomes.
+### equal opportunities != equal outcomes.
 
 **Q.** Why write a story in computing code?
 **A.** Because my prose is less intelligible.
