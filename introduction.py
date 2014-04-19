@@ -4,40 +4,46 @@ import random
 import sys
 import Chapter1_NeutralSociety as Ch1
 
-print "This is a story about a "
-a_special_girl = ['XY'] # with complete androgen insensitivity syndrome
-a_special_guy = ['XY']  # with a seriously lacking sense of adventure
 
-some_men = [['m']]*100
-some_ladies = [['l']]*100
+print "\nIntroduction: Define some variables\n"
 
+print "For our story, we'll need a",
+a_special_girl = ['he-heroine', 'XY'] # with complete androgen insensitivity syndrome
+a_special_guy = ['anti-hero','XY']  # with a seriously lacking sense of adventure
 
-""" Who lived in ... """
+print str(a_special_girl[0]) + ', an ' + str(a_special_guy[0])+', and a neutral society.',
+
+print " Like any society, this one will have a town with",
 a_town = {'folks': [], 'jobs': [], 'pubs': []}
+print a_town.keys(),'.',
 
+anonymous_men = [['m']] * 10000
+anonymous_ladies = [['l']] * 10000
+a_town['folks'] = anonymous_men + anonymous_ladies + [a_special_girl] + [a_special_guy]
 
-""" With some ..."""
-a_town['folks'] = some_men + some_ladies + [a_special_girl] + [a_special_guy]
+a_town['jobs'] = {'butcher': 2, 'baker': 3, 'candlestick_maker': 2,
+                'shopkeeer': 20, 'dentist':4, 'physician':10, 
+                'teacher': 100, 'bartender': 6, 'barista': 10,
+                'seamstress': 4, 'student': 1000, 'farmer': 100,
+                'custodian': 50, 'laborer': 1000, 'hunter': 20,
+                'pillow_fighters': 8, 'barber': 4, 'cooks': 100}
 
-a_town['jobs'] = {'butcher': 1, 'baker': 1, 'candlestick_maker': 1, 
-                'teacher': 4, 'preacher':1, 'bartender': 2,
-                'seamstress': 4, 'student': 100, 'farmer': 100,
-                'pillow_fighters': 2, 'barber': 2, 'cooks': 10}
+a_town['pubs'] = {'Ye Olde Bar', 'The Short Stick', 'The Ball and Urn'}
 
-a_town['pubs'] = {'The_Thorny_Rose', 'The_Rosy_Nose', 'The_Horny_Those'}
-
-
-""" And ..."""
+print """Unlike any society you've heard of among any species of human, all men
+look and act the same, as do all women. Likewise, all men and women act as
+if there are just men and women. There are no elderly, no infirmed, and the
+children are precocious cannibals. But, we'll get to the reproductive biology 
+of this curious species of human later. As for now, I'll simply refer to 
+them as Homo neutralis (Neutral man) and simply refer you to the source
+code.\n"""
 
 for_as_long_as_anyone_can_remember = range(10**4)
 
 for each_day in for_as_long_as_anyone_can_remember: 
     
-    # everybody had equal chances for nearly everything they did
     everyone = len(a_town['folks'])
-    chance = 1/everyone # chance...won over everyone 
-    
-    # arguments for neutrality and social lotteries in chapter 1
+    chance = 1/everyone 
     
     for example in a_town: # like this
          
@@ -73,6 +79,7 @@ for each_day in for_as_long_as_anyone_can_remember:
 # But as it happens, they did...
 
 serendipity = 'wait for it...'
+print serendipity
 while serendipity == 'wait for it...':
     
     couple = random.sample(a_town['folks'],2)
@@ -85,7 +92,6 @@ while serendipity == 'wait for it...':
         print 'Boy runs off screaming.'
         break
         
-    else: print serendipity,
     
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people!

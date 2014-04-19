@@ -12,10 +12,9 @@ import time
 
 def story(a_town):
      
-    print "To be continued."
-    #time.sleep(5)
-    print "Okay, continuing."
+    time.sleep(5)
+    print "\nChapter 1: Neutral Society"
     
-    
+
     return
 
