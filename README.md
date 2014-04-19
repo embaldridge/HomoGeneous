@@ -11,4 +11,4 @@
 **A.** About 80,000 words and 20 chapters.
 
 **Q.** Am I supposed to read it or run it?  
-**A.** I'm writing it to be read and ran, but not necessarily by you. You can do whatever you want.
+**A.** I'm writing it to be read and ran, but not necessarily by you. You can do whatever you want. See the license.
