@@ -30,17 +30,23 @@ a_town['jobs'] = {'butcher': 2, 'baker': 3, 'candlestick_maker': 2,
 
 a_town['pubs'] = {'Ye Olde Bar', 'The Short Stick', 'The Ball and Urn'}
 
-print """Unlike any society you've heard of among any species of human, all men
-look and act the same, as do all women. Likewise, all men and women act as
-if there are just men and women. There are no elderly, no infirmed, and the
-children are precocious cannibals. But, we'll get to the reproductive biology 
-of this curious species of human later. As for now, I'll simply refer to 
-them as Homo neutralis (Neutral man) and simply refer you to the source
-code.\n"""
+print """Unlike any society you've heard of, all men in this netural society
+look and act the same, as do all women. Nobody recognizes anybody and nobody
+wants to. Of course, this sort of anonymous society requires a few caveats.
+For example, it's a bit difficult to maintain anonymity if you've got people
+using names, owning property, raising families, and holding down stable jobs. 
+So, we'll have none of that. Likewise, all men and women act as if there are 
+just men and women. There are no elderly, no infirmed, and the children are 
+precocious cannibals. We'll get to the reproductive biology of this curious
+species of human later. As for now, I'll simply refer to them as Homo neutralis
+(Neutral man) and simply refer you to the source code.\n"""
 
 for_as_long_as_anyone_can_remember = range(10**4)
 
 for each_day in for_as_long_as_anyone_can_remember: 
+    
+    # Everyone woke with the same chance of being or doing whatever they 
+    # wanted because everyone relied on the lotteries. 
     
     everyone = len(a_town['folks'])
     chance = 1/everyone 
@@ -53,30 +59,39 @@ for each_day in for_as_long_as_anyone_can_remember:
             # and nobody else wants it, then...
             your_chance = 1/2
             my_chance = float(your_chance)
-        
-            # now, we could fight over it.
+            total_probability = your_chance + my_chance
+            if total_probability > 1.0:
+                print "Somebody is kidding themselves."
+                sys.exit() # Very nice. You killed the story.
+            
+            # Now, we could fight over who gets the job.
             fight = 'why not'
+            your_health = 1
+            my_health = 1
             if fight == 'why not':
-                print 'Hello? Golden rule, anyone?'
+                cage_match = [your_health, my_health]
+                damage = -0.1
+                p = 0.5 # competition symmetry factor
+                # Note: if p = 0.5, you and I are equally matched (neutral)
+                while min(cage_match) > 0:
+                    victim = np.random.binomial(1, p, 1)
+                    cage_match[victim] = cage_match[victim] + damage
                 
-            # or we could draw straws.
+            # or we could just draw straws. 
             you = np.random.binomial(1, 0.5, 1)
             if you == 1:
-                me = 'lose'
-                print 'Try again.'
-                
-             # you get the point
-            break         
+                me = 'loser'
+                # my_health still equals 1
+                    
+            break # you get the point         
     break
 
-# Now you've probably noticed that all the men in the town are basically the
-# same. Of course, you re right. They were basically the same in every possible
-# way. And of course, the same went for the women.
-    
-""" That is, except for our special girl and special guy. """
 
-# And, if these two had never met, I might not have this story to tell.
-# But as it happens, they did...
+
+""" That is, except for our special girl. """
+
+# And, if our he-heroine and anti-hero had never met, I might not have this 
+# story to tell. As it happens, they did...
 
 serendipity = 'wait for it...'
 print serendipity
