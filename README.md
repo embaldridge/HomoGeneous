@@ -14,4 +14,4 @@
 **A.** The story is revealed by reading the source code. Running the source code will aid the narrative and generate data, plots, and examples.
 
 **Q.** Data, plots, and examples of what?  
-**A.** That everything in this story is underpinned by principles of probability. 
+**A.** How this story is underpinned by principles of probability. 
