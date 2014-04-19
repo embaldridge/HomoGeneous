@@ -2,6 +2,7 @@ from __future__ import division
 import numpy as np
 import random
 import sys
+import time
 import Chapter1_NeutralSociety as Ch1
 
 
@@ -94,6 +95,7 @@ have much of a story to tell. As it happens, they did...\n"""
 
 serendipity = 'wait for it...'
 print serendipity
+
 while serendipity == 'wait for it...':
     
     couple = random.sample(a_town['folks'],2)
@@ -104,18 +106,15 @@ while serendipity == 'wait for it...':
         # are the same? 
         print 'Boy is terrified.' # apparently, he thought the same thing.
         print 'Boy runs off screaming.'
-        break
         
     
 # Of course, you might be freaked out too, if you thought you were living in
-# a perfectly equittable society of completely unrecognizable anonymous people!
+# a perfectly equittable society of completely unrecognizable anonymous people.
 
-""" As it happens, there was also a..."""
-
+print "\nAnd, as it happens, there was also a Lunatic."
 a_town['folks'].append('Lunatic')
 
 """ And this is where our story starts to ...""" 
-
 def get_interesting(a_town):
     Ch1.story(a_town)
     return
