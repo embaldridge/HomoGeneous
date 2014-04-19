@@ -8,10 +8,6 @@ print "This is a story about a "
 a_special_girl = ['XY'] # with complete androgen insensitivity syndrome
 a_special_guy = ['XY']  # with a seriously lacking sense of adventure
 
-print "Let's begin with an example..."
-
-
-
 some_men = [['m']]*100
 some_ladies = [['l']]*100
 
