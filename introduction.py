@@ -86,12 +86,11 @@ for each_day in for_as_long_as_anyone_can_remember:
             break # you get the point         
     break
 
-
-
-""" That is, except for our special girl. """
-
-# And, if our he-heroine and anti-hero had never met, I might not have this 
-# story to tell. As it happens, they did...
+print """So, it seems I've started us out with an incredibly boring and
+implausible society of anonymous passivists who go about their days playing
+lotteries and shucking financial responsibilties and family values. And so
+I have. In fact, if our he-heroine and anti-hero had never met, I might not a
+have much of a story to tell. As it happens, they did...\n"""
 
 serendipity = 'wait for it...'
 print serendipity
