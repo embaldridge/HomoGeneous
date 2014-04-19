@@ -89,29 +89,28 @@ for each_day in for_as_long_as_anyone_can_remember:
 
 print """So, it seems I've started us out with an incredibly boring and
 implausible society of anonymous passivists who go about their days playing
-lotteries and shucking financial responsibilties and family values. And so
+lotteries and shucking financial responsibilties and family values. And so,
 I have. In fact, if our he-heroine and anti-hero had never met, I might not a
 have much of a story to tell. As it happens, they did...\n"""
 
 serendipity = 'wait for it...'
-print serendipity
+print serendipity,
 
 while serendipity == 'wait for it...':
     
     couple = random.sample(a_town['folks'],2)
     if a_special_girl and a_special_guy in couple:
         serendipity = 'yes'
-        print 'Girl sees boy.'
-        print 'Girl RECOGNIZES boy.' # but didn't we agree that all guys
-        # are the same? 
-        print 'Boy is terrified.' # apparently, he thought the same thing.
+        print 'Girl sees boy. Girl RECOGNIZES boy.',
+        # but didn't we agree that all guys are the same? 
+        print 'Boy is terrified.', # apparently, he thought the same thing.
         print 'Boy runs off screaming.'
         
-    
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people.
 
-print "\nAnd, as it happens, there was also a Lunatic."
+time.sleep(0.5)
+print "\nAnd as it happens, there was also a Lunatic."
 a_town['folks'].append('Lunatic')
 
 """ And this is where our story starts to ...""" 

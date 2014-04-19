@@ -5,7 +5,7 @@ import sys
 import time
 #import Chapter2
 
-""" Our anti-hero and he-heroine have just met and you, the ill-informed reader,
+print """ Our anti-hero and he-heroine have just met and you, the ill-informed reader,
     may have little idea as to why he ran off. An anonymous society where all
     folks have equal chances of basically everything? How would that even work?
 """  
