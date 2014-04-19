@@ -2,13 +2,15 @@ from __future__ import division
 import numpy as np
 import random
 import sys
-import Chapter1
+import Chapter1_NeutralSociety as Ch1
+
+print "This is a story about a "
+a_special_girl = ['XY'] # with complete androgen insensitivity syndrome
+a_special_guy = ['XY']  # with a seriously lacking sense of adventure
+
+print "Let's begin with an example..."
 
 
-""" Once upon a time, there was... """
-
-a_special_girl = ['XY'] # complete androgen insensitivity syndrome
-a_special_guy = ['XY']
 
 some_men = [['m']]*100
 some_ladies = [['l']]*100
@@ -99,7 +101,7 @@ a_town['folks'].append('Lunatic')
 """ And this is where our story starts to ...""" 
 
 def get_interesting(a_town):
-    Chapter1.story(a_town)
+    Ch1.story(a_town)
     return
 
 get_interesting(a_town)
