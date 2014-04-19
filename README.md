@@ -4,7 +4,7 @@
 
 ### equal opportunities != equal outcomes
 
-**Q.** But, why write a story in computing code?  
+**Q.** Why write a story in computing code?  
 **A.** Because I am a strange loop.
 
 **Q.** How much of this novel is already written?  
