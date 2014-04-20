@@ -9,7 +9,7 @@ def dp(s):
     for c in s:
         sys.stdout.write( '%s' % c )
         sys.stdout.flush()
-        time.sleep(0.05)
+        time.sleep(0.01)
 
 dp("\nIntroduction:")
 time.sleep(0.8)
@@ -124,10 +124,10 @@ time.sleep(0.8)
 dp(" Sure, why not start from a low point?")
 time.sleep(0.8)
 dp("\n\nActually, things are about to get interesting because")
-dp(" our he-heroine and anti-hero are just about to meet...\n\n")
+dp(" our he-heroine and anti-hero are just about to meet.\n\n")
 
 serendipity = 'wait for it...'
-dp(serendipity,)
+dp(serendipity)
 time.sleep(0.9)
     
 while serendipity == 'wait for it...':
