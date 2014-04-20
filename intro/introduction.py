@@ -126,22 +126,23 @@ time.sleep(0.8)
 dp("\n\nActually, things are about to get interesting because")
 dp(" our he-heroine and anti-hero are just about to meet...\n\n")
 
-serendipity = 'wait for it'
+serendipity = 'wait for it...'
 dp(serendipity,)
 time.sleep(0.9)
     
-while serendipity == 'wait for it':
+while serendipity == 'wait for it...':
     
     couple = random.sample(a_town['folks'],2)
     if a_special_girl and a_special_guy in couple:
         serendipity = 'yes'
         import Intro_Dialogue
-
         
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people.
 
-dp("\nAs it happens, there is also       a Lunatic.")
+dp("there is also")
+time.sleep(0.8)
+dp(" one Lunatic.")
 a_town['folks'].append('Lunatic')
 
 #import Chapter1_NeutralSociety
