@@ -5,18 +5,24 @@ import sys
 import time
 import Chapter1_NeutralSociety as Ch1
 
+def dp(s):
+    for c in s:
+        sys.stdout.write( '%s' % c )
+        sys.stdout.flush()
+        time.sleep(0.05)
 
-print "\nIntroduction: Define some variables\n"
+dp("\nIntroduction: Define some variables\n\nFor our story, we'll need a ",)
 
-print "For our story, we'll need a",
 a_special_girl = ['he-heroine', 'XY'] # with complete androgen insensitivity syndrome
 a_special_guy = ['anti-hero','XY']  # with a seriously lacking sense of adventure
 
-print str(a_special_girl[0]) + ', an ' + str(a_special_guy[0])+', and a neutral society.',
+dp( str(a_special_girl[0])+', an '+str(a_special_guy[0])+', and a neutral society.',)
+dp(" Like any society, this one will have a town with ",)
 
-print " Like any society, this one will have a town with",
 a_town = {'folks': [], 'jobs': [], 'pubs': []}
-print a_town.keys(),'.',
+for key in a_town.keys():
+    dp(str(key)+', ')
+dp("and Lunatics. ")
 
 anonymous_men = [['m']] * 10000
 anonymous_ladies = [['l']] * 10000
@@ -31,16 +37,16 @@ a_town['jobs'] = {'butcher': 2, 'baker': 3, 'candlestick_maker': 2,
 
 a_town['pubs'] = {'Ye Olde Bar', 'The Short Stick', 'The Ball and Urn'}
 
-print """Unlike any society you've heard of, all men in this netural society
-look and act the same, as do all women. Nobody recognizes anybody and nobody
-wants to. Of course, this sort of anonymous society requires a few caveats.
-For example, it's a bit difficult to maintain anonymity if you've got people
-using names, owning property, raising families, and holding down stable jobs. 
-So, we'll have none of that. Likewise, all men and women act as if there are 
-just men and women. There are no elderly, no infirmed, and the children are 
-precocious cannibals. We'll get to the reproductive biology of this curious
-species of human later. As for now, I'll simply refer to them as Homo neutralis
-(Neutral man) and simply refer you to the source code.\n"""
+dp("Unlike any society you've heard of, all men in this neutral society look")
+dp(" and act the same, as do all women. Nobody recognizes anybody and nobody")
+dp("wants to. Of course, this sort of anonymous society requires a few caveats.")
+dp(" For example, it's a bit difficult to maintain anonymity if you've got people")
+dp(" using names, owning property, raising families, and holding down stable jobs.") 
+dp(" So, we'll have none of that.\n\nThere are no elderly, no infirmed, and the")
+dp(" children are, quite literally, precocious cannibals. But, we'll get to the")
+dp(" reproductive biology of this curious species of human later. As for now, ")
+dp(" I'll simply refer to them as Homo neutralis (Neutral man) and simply refer")
+dp(" you to the source code.\n""")
 
 for_as_long_as_anyone_can_remember = range(10**4)
 
@@ -87,30 +93,30 @@ for each_day in for_as_long_as_anyone_can_remember:
             break # you get the point         
     break
 
-print """So, it seems I've started us out with an incredibly boring and
-implausible society of anonymous passivists who go about their days playing
-lotteries and shucking financial responsibilties and family values. And so,
-I have. In fact, if our he-heroine and anti-hero had never met, I might not a
-have much of a story to tell. As it happens, they did...\n"""
+dp("\nSo, it seems I've started us out with an incredibly boring and ")
+dp("implausible society of anonymous passivists who go about their days playing ")
+dp("lotteries and shucking financial responsibilties and family values. And so, ")
+dp("I have. In fact, if our he-heroine and anti-hero had never met, I might not ")
+dp("have much of a story to tell. As it happens, they did...\n\n")
 
 serendipity = 'wait for it...'
-print serendipity,
+dp(serendipity,)
 
 while serendipity == 'wait for it...':
     
     couple = random.sample(a_town['folks'],2)
     if a_special_girl and a_special_guy in couple:
         serendipity = 'yes'
-        print 'Girl sees boy. Girl RECOGNIZES boy.',
+        
+        dp('Girl sees boy. Girl RECOGNIZES boy. ',)
         # but didn't we agree that all guys are the same? 
-        print 'Boy is terrified.', # apparently, he thought the same thing.
-        print 'Boy runs off screaming.'
+        dp('Boy is terrified. ',) # apparently, he thought the same thing.
+        dp('Boy runs off screaming. ')
         
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people.
 
-time.sleep(0.5)
-print "\nAnd as it happens, there was also a Lunatic."
+dp("\nAs it happens, there is also       a Lunatic.")
 a_town['folks'].append('Lunatic')
 
 """ And this is where our story starts to ...""" 
