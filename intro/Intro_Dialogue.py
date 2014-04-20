@@ -8,7 +8,6 @@ def dp(s,t=0.05):
         sys.stdout.flush()
         time.sleep(t)
 
-
 dp("\n\nHi there. <-- our he-heroine\n\n")
 time.sleep(0.8)
 dp("Hi back. <-- our anti-hero\n\n")
