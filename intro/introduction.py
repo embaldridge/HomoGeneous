@@ -5,11 +5,13 @@ import random
 import sys
 import time
 
+mypath = '/Users/lisalocey/Desktop/HomoNeutralis/'
+
 def dp(s):
     for c in s:
         sys.stdout.write( '%s' % c )
         sys.stdout.flush()
-        time.sleep(0.01)
+        time.sleep(0.05)
 
 dp("\nIntroduction:")
 time.sleep(0.8)
@@ -48,7 +50,7 @@ a_town['pubs'] = {'Ye Olde Bar', 'The Short Stick', 'The Ball and Urn'}
 
 dp("Unlike any society you've heard of, all men in this neutral society look")
 dp(" and act the same, as do all women. Nobody recognizes anybody and nobody")
-dp("wants to.\n\n")
+dp(" wants to.\n\n")
 time.sleep(0.8)
 dp("Of course, this sort of anonymous society requires a few caveats.")
 time.sleep(0.8)
@@ -67,6 +69,12 @@ dp(" human later.")
 time.sleep(0.8)
 dp(" As for now, I'll simply refer to them as Homo neutralis ")
 dp("(Neutral man) and simply refer you to the source code.\n""")
+time.sleep(0.8)
+dp("That's right,")
+time.sleep(0.8)
+dp(" your narrator has buried the nuts and bolts of this story")
+dp(" in the source code.\n")
+time.sleep(0.5)
 
 for_as_long_as_anyone_can_remember = range(10**4)
 
@@ -136,13 +144,16 @@ while serendipity == 'wait for it...':
     if a_special_girl and a_special_guy in couple:
         serendipity = 'yes'
         import Intro_Dialogue
-        
+                
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people.
 
-dp("there is also")
+dp(" there is also")
 time.sleep(0.8)
-dp(" one Lunatic.")
+dp(" one Lunatic.\n")
 a_town['folks'].append('Lunatic')
+time.sleep(0.8)
 
-#import Chapter1_NeutralSociety
+sys.path.append(mypath+'Ch1_NeutralSociety')
+import Chapter1_NeutralSociety as ch1
+ch1.narrative(a_town)
