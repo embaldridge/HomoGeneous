@@ -1,9 +1,9 @@
+# -*- coding: utf-8 -*-
 from __future__ import division
 import numpy as np
 import random
 import sys
 import time
-import Chapter1_NeutralSociety as Ch1
 
 def dp(s):
     for c in s:
@@ -11,18 +11,27 @@ def dp(s):
         sys.stdout.flush()
         time.sleep(0.05)
 
-dp("\nIntroduction: Define some variables\n\nFor our story, we'll need a ",)
+dp("\nIntroduction:")
+time.sleep(0.8)
+dp(" Define some variables\n")
+time.sleep(0.8)
+dp("\nFor our story, we'll need a ",)
 
 a_special_girl = ['he-heroine', 'XY'] # with complete androgen insensitivity syndrome
 a_special_guy = ['anti-hero','XY']  # with a seriously lacking sense of adventure
 
 dp( str(a_special_girl[0])+', an '+str(a_special_guy[0])+', and a neutral society.',)
+time.sleep(0.8)
 dp(" Like any society, this one will have a town with ",)
 
 a_town = {'folks': [], 'jobs': [], 'pubs': []}
 for key in a_town.keys():
+    time.sleep(0.5)
     dp(str(key)+', ')
+
+time.sleep(0.8)    
 dp("and Lunatics. ")
+time.sleep(0.8)
 
 anonymous_men = [['m']] * 10000
 anonymous_ladies = [['l']] * 10000
@@ -39,14 +48,25 @@ a_town['pubs'] = {'Ye Olde Bar', 'The Short Stick', 'The Ball and Urn'}
 
 dp("Unlike any society you've heard of, all men in this neutral society look")
 dp(" and act the same, as do all women. Nobody recognizes anybody and nobody")
-dp("wants to. Of course, this sort of anonymous society requires a few caveats.")
+dp("wants to.\n\n")
+time.sleep(0.8)
+dp("Of course, this sort of anonymous society requires a few caveats.")
+time.sleep(0.8)
 dp(" For example, it's a bit difficult to maintain anonymity if you've got people")
 dp(" using names, owning property, raising families, and holding down stable jobs.") 
-dp(" So, we'll have none of that.\n\nThere are no elderly, no infirmed, and the")
-dp(" children are, quite literally, precocious cannibals. But, we'll get to the")
-dp(" reproductive biology of this curious species of human later. As for now, ")
-dp(" I'll simply refer to them as Homo neutralis (Neutral man) and simply refer")
-dp(" you to the source code.\n""")
+time.sleep(0.5)
+dp(" So, ")
+time.sleep(0.5)
+dp("we will have none of that.")
+time.sleep(0.8)
+dp("\n\nThere are no elderly, no infirmed, and the")
+dp(" children are, quite literally, precocious cannibals.")
+time.sleep(0.9)
+dp(" But, we'll get to the reproductive biology of this curious species of")
+dp(" human later.")
+time.sleep(0.8)
+dp(" As for now, I'll simply refer to them as Homo neutralis ")
+dp("(Neutral man) and simply refer you to the source code.\n""")
 
 for_as_long_as_anyone_can_remember = range(10**4)
 
@@ -93,25 +113,30 @@ for each_day in for_as_long_as_anyone_can_remember:
             break # you get the point         
     break
 
-dp("\nSo, it seems I've started us out with an incredibly boring and ")
-dp("implausible society of anonymous passivists who go about their days playing ")
-dp("lotteries and shucking financial responsibilties and family values. And so, ")
-dp("I have. In fact, if our he-heroine and anti-hero had never met, I might not ")
-dp("have much of a story to tell. As it happens, they did...\n\n")
+dp("\nOh good. You've already read the source code.")
+dp("\nYou are really on top of things.\n\n")
+time.sleep(0.8)
+dp("Now that you've read the code, you can see that I've started us out with")
+dp(" an incredibly odd and implausible society of anonymous passivists who go")
+dp(" about their days playing lotteries and shucking financial responsibilties")
+dp(" and family values.")
+time.sleep(0.8)
+dp(" Sure, why not start from a low point?")
+time.sleep(0.8)
+dp("\n\nActually, things are about to get interesting because")
+dp(" our he-heroine and anti-hero are just about to meet...\n\n")
 
-serendipity = 'wait for it...'
+serendipity = 'wait for it'
 dp(serendipity,)
-
-while serendipity == 'wait for it...':
+time.sleep(0.9)
+    
+while serendipity == 'wait for it':
     
     couple = random.sample(a_town['folks'],2)
     if a_special_girl and a_special_guy in couple:
         serendipity = 'yes'
-        
-        dp('Girl sees boy. Girl RECOGNIZES boy. ',)
-        # but didn't we agree that all guys are the same? 
-        dp('Boy is terrified. ',) # apparently, he thought the same thing.
-        dp('Boy runs off screaming. ')
+        import Intro_Dialogue
+
         
 # Of course, you might be freaked out too, if you thought you were living in
 # a perfectly equittable society of completely unrecognizable anonymous people.
@@ -119,9 +144,4 @@ while serendipity == 'wait for it...':
 dp("\nAs it happens, there is also       a Lunatic.")
 a_town['folks'].append('Lunatic')
 
-""" And this is where our story starts to ...""" 
-def get_interesting(a_town):
-    Ch1.story(a_town)
-    return
-
-get_interesting(a_town)
+#import Chapter1_NeutralSociety
