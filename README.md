@@ -10,8 +10,5 @@
 **Q.** How much of this novel is already written?  
 **A.** About 80,000 words and 20 chapters. I'm only beginning to translate it to working Python code.
 
-**Q.** Am I supposed to read it or run it?  
-**A.** The story is revealed by **reading** the source code. Running the source code will aid the narrative and generate data, plots, and examples.
-
-**Q.** Data, plots, and examples of what?  
-**A.** How this story is underpinned by principles of probability. 
+**Q.** Is the source code supposed to be read or run?  
+**A.** Both. It's a story written in Python that when ran, tells itself. 
