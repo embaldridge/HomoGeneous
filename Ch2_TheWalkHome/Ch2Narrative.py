@@ -8,7 +8,7 @@ import sys
 
 mypath = '/Users/lisalocey/Desktop/HomoNeutralis/'
 
-C3PO.ReadCh2()
+C3PO.Tell_us_a_story()
 
 # There once was a...
 HeHeroine = ['he-heroine', 'XY'] # with complete androgen insensitivity syndrome

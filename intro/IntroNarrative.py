@@ -7,7 +7,7 @@ l = 0.8
 m = 0.5
 s = 0.12
 
-def says(s, t=0.08):
+def says(s, t=0.09):
     for c in s:
         sys.stdout.write( '%s' % c )
         sys.stdout.flush()
@@ -40,10 +40,10 @@ def Tell_us_a_story():
     says(" All the men of Bath look and act the same, as do all women.") 
     says(" Nobody recognizes anybody and nobody wants to.")
     time.sleep(m)
-    says(" Of course, this makes it quite difficult to recognize a Lunatics. ")
+    says(" Of course, this makes it quite difficult to recognize a Lunatic. ")
     time.sleep(l)
     
-    says("Likeweise, this tail of an anonymous society requires a few caveats.")
+    says("Likeweise, this tale of an anonymous society requires a few caveats.")
     time.sleep(m)
     says(" For example, it's a bit difficult to maintain anonymity if you've got people")
     says(" using names, owning property, raising families, and holding down stable jobs.") 

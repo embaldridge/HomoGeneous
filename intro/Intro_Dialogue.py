@@ -2,7 +2,7 @@
 import sys
 import time
 
-def says(s,t=0.05):
+def says(s,t=0.08):
     for c in s:
         sys.stdout.write( '%s' % c )
         sys.stdout.flush()
