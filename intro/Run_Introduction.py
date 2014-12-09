@@ -10,7 +10,7 @@ import sys
 mydir = os.path.expanduser("~/Desktop")
 mypath = mydir + "/Repos/HomoGeneous/"
 
-C3PO.ReadCh2()
+C3PO.Tell_us_a_story()
 
 # There once was a...
 HeHeroine = ['he-heroine', 'XY'] # with complete androgen insensitivity syndrome
@@ -125,9 +125,9 @@ for each_day in as_long_as_anyone_can_remember:
             time.sleep(0.5)
             C3PO.says('Of course, that was just a single random encounter ', 0.1)
             time.sleep(0.5)
-            C3PO.says('Let\'s see what happens with, oh, a thousand random encounters')
+            C3PO.says('Let\'s see what happens with, oh, a thousand random encounters.')
             time.sleep(0.5)       
-            C3PO.says("INITIATING RANDOM SAMPLING...\n\n", 0.12)
+            C3PO.says("  INITIATING RANDOM SAMPLING...\n\n", 0.12)
             
             results = [] 
             lets_keep_tabs = 0
@@ -144,8 +144,8 @@ for each_day in as_long_as_anyone_can_remember:
             result = np.mean(results)
             C3PO.says('Alright, it took, on average, '+str(result)+' random ')
             C3PO.says('encounters until our he-heroine and anti-hero met. ') 
-            C3PO.says('A clearer demonstration of our neutral society,')
-            C3PO.says('and how all individuals have equal chances of success')
+            C3PO.says('A clearer demonstration of our neutral society and how all individuals have equal chances of basically everything,')
+            C3PO.says(' but also of how equal chances rarely ever produce equal outcomes. ')
             
             import Intro_Dialogue
             Intro_Dialogue.HeSaysSheSays()
