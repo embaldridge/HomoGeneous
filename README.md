@@ -1,3 +1,6 @@
-# HomoNeutralis
+# *Homo geneous*
 
-## A dystopian novel written in working Python code that perverts identity, equality, property, and gender.
+## A novel by Kenneth J. Locey
+
+Partly written in working Python code, partly written in normal people prose, and partly written.
+
