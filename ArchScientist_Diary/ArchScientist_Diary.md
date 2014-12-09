@@ -1,5 +1,4 @@
-# Diary of the Arch-Scientist,
-# Natural historian of *Homo geneous*	
+# Diary of the Arch-Scientist, natural historian of *Homo geneous*	
 ## To the reader
 -----I, arch-scientist and discoverer of the homogeneous species of human that I have named *Homo geneous*, write this diary to be read upon the event of my death. Why then not call it a journal or notebook as any scientist might? My answer is simply that I am no scientist, at least, not any longer.	If you are reading this, then I am dead. Whether by natural causes, either peacefully in my sleep or violently in full awareness, or by unnatural causes, whether by tortue to reveal their location or in suicide to prevent exposing a naive species of human to the destructive 'wisdom' of *Homo sapiens*, I am dead. If this be the case, then I would rather, for my love of knowledge and discovery alone, have the location of *Homo geneous* be known. 
 But first, I entreat you to hear my story. Only then, will the location of *Homo geneous* be revealed.
