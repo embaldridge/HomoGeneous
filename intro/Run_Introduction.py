@@ -3,10 +3,12 @@ from __future__ import division
 import IntroNarrative as C3PO
 import numpy as np
 import random
+import os
 import time
 import sys
 
-mypath = '/Users/lisalocey/Desktop/HomoNeutralis/'
+mydir = os.path.expanduser("~/Desktop")
+mypath = mydir + "/Repos/HomoGeneous/"
 
 C3PO.ReadCh2()
 
