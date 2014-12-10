@@ -11,8 +11,8 @@ def says(s,t=0.08):
 
 def HeSaysSheSays(): 
     
-    says("But, once more, I digress. If I may, allow me to return you to our story by ") #...well, by filling you in
-    # on what you would miss if you had only run the source code. I am inclined to ...
+    says("But, once more, I digress. If I may, allow me to return you to our story by ") #...filling you in
+    # on what you would miss if you had only run the source code. Here, and in greater detail I am inclined to ...
     says("letting you listen to the first encounter of our main characters. As I have been told, it was originally told as follows:\n\n")
     
     says("Hi there, sir. <-- our he-heroine\n\n") 
