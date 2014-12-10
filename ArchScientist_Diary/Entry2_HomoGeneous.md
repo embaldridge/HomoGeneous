@@ -3,7 +3,7 @@
 
 For weeks, I spoke to audiences of scientists, politicians, military leaders, and privileged journalists. Then, the world slowly realized that I would not let Schrodinger's cat out of the bag or box. In the attempts of governments and corporations to force my hand, I lost nearly everything I owned. At first, I declined their money. Then, I defied their threats. I even denied my closest colleagues to protect *Homo geneous* from us.
 
-Most of my possession and positions were taken from me. I was interrogated, dehumanized, and denounced. But, I still owned my decisions and for better or worse, I owned my convictions. In having most everything I owned and occupied stripped from me, my strife increased geometrically.
+Most of my possessions and positions were taken from me. I was interrogated, dehumanized, and denounced. But, I still owned my decisions and for better or worse, I owned my convictions. In having most everything I owned and occupied stripped from me, my strife increased geometrically.
 Here, I include notes from my early lectures and seminars. I have instructed my assistant and confidant to distribute them to you. As you read these notes, know that I, like every scientist never knows the entire truth, not even to our very own discoveries.
 
 ## SociobiologyI would like to begin with an account of the sociobiology of *Homo geneous*. Perhaps, the first thing to note about *Homo geneous*, is that all males look and act alike, as do all females. In my years of studying them, I only ever once witnessed an interaction indicating that any of them could recognize any of them. In fact, they seem to make every effort to remain completely anonymous. 
