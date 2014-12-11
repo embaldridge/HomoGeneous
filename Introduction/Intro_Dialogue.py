@@ -18,16 +18,30 @@ def HeSaysSheSays():
     says("Hi there, sir. <-- our he-heroine\n\n") # Her greeting shattered his thoughts and jerked his eyes upward. 
     # The young shrimp saw a woman standing directly in front of him.
     time.sleep(0.8)
+    
+    # Something about her made him uncomfortable. 
+    #This woman looked like your typical female, but something in her eyes said she was up to something.
     says("Hi back. <-- our anti-hero\n\n")
     time.sleep(0.8)
+    
     says("If you don't mind, please tell me, where are you headed? <-- he-heroine\n\n")
     time.sleep(0.8)
-    says("Well, if you don't mind, miss, why would you ask? <-- anti-hero Get the gist?\n\n")
+    
+    
+    #He wondered why she would ask such a question.
+    says("Well, if you don't mind miss, why would you ask? <-- anti-hero Get the gist?\n\n")
     time.sleep(0.8)
+    # Nobody in Bath ever asks such blunt an personal questions. This was by Bath standards,
+    # quite rude. It nearly bordered on assault.
+    
     says("Are you going home?\n\n")
     time.sleep(0.8)
+    
+    # "Another attack." he thought. "What have I done to deserve this?" 
+    # Still, he remained calm and hoped this was all a misunderstanding.
     says("Again, miss, I don't think I understand. Why do you want to know?\n\n")
     time.sleep(0.8)
+    
     says("I'm sorry. I'm simply wondering if I might come with you.\n\n")
     time.sleep(0.8)
     says("Excuse me?\n\n")
