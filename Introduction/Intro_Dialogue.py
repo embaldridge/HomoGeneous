@@ -15,7 +15,8 @@ def HeSaysSheSays():
     # on what you would miss if you had only run the source code. Here, and in greater detail I am inclined to ...
     says("letting you listen to the first encounter of our main characters. As I have been told, it was originally told as follows:\n\n")
     
-    says("Hi there, sir. <-- our he-heroine\n\n") 
+    says("Hi there, sir. <-- our he-heroine\n\n") # Her greeting shattered his thoughts and jerked his eyes upward. 
+    # The young shrimp saw a woman standing directly in front of him.
     time.sleep(0.8)
     says("Hi back. <-- our anti-hero\n\n")
     time.sleep(0.8)
