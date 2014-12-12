@@ -79,7 +79,7 @@ def HeSaysSheSays():
     says(" minded your own business! What right have you?!") # He croaked
     time.sleep(0.8)
     
-    # She continude,
+    # She continued...
     says("I think I first saw you when you were eating your lunch on a ")
     says("bench outside the school. Near the lilies, I think.\n")
     time.sleep(0.8)
