@@ -87,16 +87,17 @@ def HeSaysSheSays():
     time.sleep(0.8)
     says("I mean, don't get me wrong. As far as I can tell,\n")
     time.sleep(0.8)
-    says("you look the same as every other man.")
+    says("you look the same as every other man.\n")
     time.sleep(0.8)
     
-    
-    
-    
-    says("I have been able to pick you out of a crowd, out of a class,\n")
-    says("and well, out of wherever.\n\n")
+    # She paused...
+    says("But, when you got up and mingled with the others, I found that I could follow you.\n") 
     time.sleep(0.8)
-
+    says("When other people mingle they almost immediately got lost in the crowd.\n") 
+    time.sleep(0.8)
+    says("But I could easily pick you out. I have no idea how or why.") 
+    
+    
     says("You have been following me? Tracking me?")
     time.sleep(0.8)
     says("Stalking me?!")
