@@ -11,69 +11,92 @@ def says(s,t=0.08):
 
 def HeSaysSheSays(): 
     
-    says("But, once more, I digress. If I may, allow me to return you to our story by ") #...filling you in
-    # on what you would miss if you had only run the source code. Here, and in greater detail I am inclined to ...
+    says("But, once more, I digress. If I may, allow me to return you to our story by ") 
+    
+    # ...filling you in on what you would miss if you had only run the source 
+    # code. Here, and in greater detail I am inclined to ...
+    
     says("letting you listen to the first encounter of our main characters. As I have been told, it was originally told as follows:\n\n")
     
-    says("Hi there, sir. <-- our he-heroine\n\n") # Her greeting shattered his thoughts and jerked his eyes upward. 
-    # The young shrimp saw a woman standing directly in front of him.
+    says("Hi there, sir. <-- our he-heroine\n\n") 
     time.sleep(0.8)
     
-    # Something about her made him uncomfortable. 
-    #This woman looked like your typical female, but something in her eyes said she was up to something.
+    # Her greeting shattered his thoughts and jerked his eyes upward. 
+    # The young shrimp saw a woman standing directly in front of him.
+    
     says("Hi back. <-- our anti-hero\n\n")
     time.sleep(0.8)
     
-    says("If you don't mind, please tell me, where are you headed? <-- he-heroine\n\n")
+    # Something about her made him uncomfortable. This woman looked like your
+    # typical female, but something in her eyes said she was up to something.
+    
+    says("Are you headed home from school? <-- he-heroine\n\n")
     time.sleep(0.8)
     
+    # Her questions grabbed him by the back of his head and ripped him, 
+    # head-first, into surprise.
     
-    #He wondered why she would ask such a question.
-    says("Well, if you don't mind miss, why would you ask? <-- anti-hero Get the gist?\n\n")
-    time.sleep(0.8)
-    # Nobody in Bath ever asks such blunt an personal questions. This was by Bath standards,
-    # quite rude. It nearly bordered on assault.
-    
-    says("Are you going home?\n\n")
-    time.sleep(0.8)
-    
-    # "Another attack." he thought. "What have I done to deserve this?" 
-    # Still, he remained calm and hoped this was all a misunderstanding.
-    says("Again, miss, I don't think I understand. Why do you want to know?\n\n")
-    time.sleep(0.8)
-    
-    says("I'm sorry. I'm simply wondering if I might come with you.\n\n")
-    time.sleep(0.8)
-    says("Excuse me?\n\n")
-    time.sleep(0.8)
-    says("I would d like to know where you are going.\n")
-    says("If you're going home, I'd like to go with you.\n\n")
-    time.sleep(0.8)
-    says("I heard you the first time!\n")
-    says("I meant, why would you ask me that?\n\n")
-    time.sleep(0.8)
-    says("What do you mean?\n\n")
-    time.sleep(0.8)
-    says("I mean, why would you ask me if I'm going home\n")
-    says("and why would you ask if you can come with me?\n\n")
-    time.sleep(0.8)
-    says("Because I do not want to lose track of you.\n\n")
-    time.sleep(0.8)
-    says("Lose track of me?!\n\n")
-    time.sleep(0.8)
-    says("I can recognize you.")
-    time.sleep(0.8)
-    says(" Well, at least I think I can.\n\n")
-    time.sleep(0.8)
     says("What?\n")
     time.sleep(0.8)
-    says("What did you say?\n\n")
+    says("What did you say?\n")
     time.sleep(0.8)
     
-    says("Sir, this might come as a shock but for the last two days, ")
+    #He was bewildered and a bit afraid. She was staring at him now. Her eyes 
+    # were fixed in a penetrating gaze that reassured him that his fear was 
+    # justified. It was as if she was simultaneously trying trap him and to 
+    # tell him her most closely guarded secret. She took a step towards him.
+    
+    says("I recognize you. <-- anti-hero Get the gist?\n\n")
+    time.sleep(0.8)
+    
+    # His sinking heart pulled the blood from his face and fell into his shoes. 
+    # Thump went his heart. 
+    # Splash went his blood. 
+    # Now he would have to walk home with squishy wet shoes. 
+    
+    says("What?!\n")
+    time.sleep(0.8)
+    says("What did you say?!\n")
+    time.sleep(0.8)
+    says("You recognize me?! How could you say something like that?\n\n")
+    time.sleep(0.8)
+    says("How?\n")
+    time.sleep(0.8)
+    says("Is there something wrong with me?\n\n")
+    
+    says("No. Not that I can tell. I can just tell who you are.\n\n")
+    time.sleep(0.8)
+          
+    says("But, how can you? Nobody can do that. Nobody would want to do that!\n\n")
+    time.sleep(0.8)
+    
+    says("I know this comes as a shock but a day ago in the schoolyard,\n")
+    says("I realized that I kept picking-out the same man. I couldn't help it. \n\n") 
+    time.sleep(0.8)
+    
+    says("Oh yes you could have! You could have just ignored it. You could have\n")
+    time.sleep(0.8)
+    says(" minded your own business! What right have you?!") # He croaked
+    time.sleep(0.8)
+    
+    # She continude,
+    says("I think I first saw you when you were eating your lunch on a ")
+    says("bench outside the school. Near the lilies, I think.\n")
+    time.sleep(0.8)
+    says("Something about you struck me as different.\n") 
+    time.sleep(0.8)
+    says("I mean, don't get me wrong. As far as I can tell,\n")
+    time.sleep(0.8)
+    says("you look the same as every other man.")
+    time.sleep(0.8)
+    
+    
+    
+    
     says("I have been able to pick you out of a crowd, out of a class,\n")
     says("and well, out of wherever.\n\n")
     time.sleep(0.8)
+
     says("You have been following me? Tracking me?")
     time.sleep(0.8)
     says("Stalking me?!")
