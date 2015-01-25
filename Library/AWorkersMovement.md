@@ -32,35 +32,33 @@ The men let out round of laughter.
 
 "Well let me ask you this," said The Prophet, "Say this goes on for ten more rounds, with one man failing and getting replaced by another. Let’s say the man with lady number two never fails but simply holds her attention. Meanwhile, lady number one is forced to put up with the same two men vying in-turn for her attention because she doesn't want to leave her friend's company. This means that if the two friends working on lady number one have had equal amounts of time, the friend with lady number two has had twice as much time as either of his two friends, averaged together. 
 
-Now, let’s say that in the eleventh round, lady two gets bored with the man who was, up until now, able to hold her attention. At this point there are two available ladies, one man talking with woman number one, one man who previously struck-out with woman number 1 and has been waiting, and one man who just struck-out with woman number 2. Does the man waiting to talk to woman number one now try romancing woman number two and does the man who just failed with woman number two now wait to talk to woman number one?" asked The Prophet.
+Now, let’s say that in the eleventh round, lady two gets bored with the man who was, up until now, able to hold her attention. At this point there are two ladies, one man who is talking with woman number one, one man who previously struck-out with woman number one and is now wooing woman number two, and one man who just struck-out with woman number two and is waiting to talk to woman number one."
 
-"Well, sure." answered one man, while others shook their heads in agreement. 
+"Now," continued The Prophet, "Let's say that the man talking to woman number two win's her approval. They leave the tavern and there is now one woman left, that is, woman number one. One man has spent twice as long as the other in wooing but has not yet talked with woman number one. The other man has had repeated chances to woo woman number one, but again, has only had half the time as the man, to do so. Is it still fair to take turns?"
 
-"So," continued The Prophet, "the man who was just out should get a chance with a new lady. Let’s say the man who talked so long with lady number two hits it off with lady number one. They leave the tavern and there is now one lady left. By your logic, the two friends who were repeatedly unsuccessful at wooing woman number one now take their changes with lonely woman number two?"
+"Well, one of them has had twice as much time as the other, the man with less time should go until they've got equal time. That’s why we started the whole rotation to begin with," one man shouted. Some of the men sent up their support.
 
-The men agreed, but sensed that they were being led into a trap.
+"Wait a minute now," said another man, "The man talking to woman number one has had his chances and failed. The man with less opportunities should go. I thought we agreed on the rotation idea to make sure that each man gets a fair amount of turns. The man with more time has only had one turn.’ Again, some of the men, different one’s now, sent up their support.
 
-"Then, I ask you this. One man has had twice as long as the other, but has not been with the lady in-waiting. The other friend was just with her, but has only had half the time as the other. Who goes? Do they flip for it?"
+"Who cares if he's only had one turn, he’s been in the entire damn time!" said another man.
+"Sure, but it was still only one turn and wasn't with woman number one." shouted another.
 
-‘Well, one of’em has had twice as much time as the other, the man with less time should go. That’s why we started the whole rotation to begin with,’ one man shouted.
-Some of the men sent up their support.
-‘Wait a minute now,’ said another man, ‘The other man has just had his chance with that lady and has had many chances with her, but failed. The man with more time that has not been with her should go. I thought we agreed on the rotation plan to make sure that each man gets a fair amount of turns, not time. The man with more time has only had one turn.’
-Again, some of the men, different one’s now, sent up their support.
-‘Who care how many turns he’s had, he’s been in the entire damn time!’ said another man.
-‘They could flip a coin for it!’ said one man.
-‘A fair coin flip makes for a fair coin flip and nothin’ more!’ replied another.
-‘Stop the insanity!’ cried another, ‘She just a woman!’
-‘That ain’t the point!’ yelled another, ‘Ye big baby!’
-The crowd grew louder and the disagreements grew more heated. What started as two men with two differing opinions, grew into two groups with two differing opinions, and that grew into four groups with four opinions. ‘Before long, each man will be arguing with every other! This is too easy!’ The Prophet thought to himself. He took a staff from the corner and loudly stamped it onto the floor, breaking the arguments and getting the men’s attention.
-‘Well,’ asked the Prophet, ‘What’s your answer?’
-‘Aye, t’aint no solution to that problem, not without opinion.’ said a man.
-‘Aye,’ said the rest of them.
-‘Well, you do agree that the situation could actually happen?’ asked The Prophet.
-‘Aye,’ said the men.
-‘And do you think
-‘And at being unable to find an equittable solution, I imagine that each of you, if you were one of the two unfortunate men, would simply tip your hat to the last lady on Earth and forfeit?’ The men were silent.
-‘So, presuming there’s no backing out, what do you do?’
-The Prophet, scanned his audience. He looked into each of their eyes, and each them looked into his, waiting for the answer. After all, who would start such a rouse without a reason for it? Who would ask such a question without having an answer in his bullpen? The Prophet enjoyed this attention, he had stepped straight out of obscurity, into the fronts of their minds, and drove his heel deep into their psyche. Now, all he had to do was sew it up.
+"They should flip a coin for it!" said one man. "A fair coin flip makes for a fair flip!"
+"No!" shouted another. "A fair flip makes for a fair flip."
+
+"Stop the insanity!" cried another, "She's just a woman!"
+"That isn’t the point!" yelled another.
+
+The crowd grew louder and the disagreements grew more diverse. What started as two men with two differing opinions, grew into two groups with two differing opinions, which grew into four groups with four opinions. 
+
+"Before long, each man will be arguing with every other! This is too easy!" The Prophet thought to himself. He took a staff from the corner and loudly stamped it onto the floor, breaking the arguments and getting the men’s attention.
+
+"Well," asked the Prophet, "Is there a consensus?"
+"There's no fair solution," said a man. "At least, not one free of the opinion of what fair might be."
+
+"Well, you do agree that the situation could actually happen?" asked The Prophet. "And at being unable to find a fair solution, I imagine that each of you, if you were one of the two unfortunate men, would simply tip your hat to the last lady on Earth and forfeit?" Some men were silent but most either chuckled or threw up their hands in protest of the nonsense the Prophet brought to their otherwise peaceful lunch break.
+
+"So, presuming there’s no backing out, what do you do?", asked The Prophet. He scanned his audience and looked into each of their eyes, and each them looked into his, waiting for the answer. After all, who would start such a rouse without a reason for it? Who would ask such a question without having an answer in his bullpen? The Prophet enjoyed this attention, he had stepped straight out of obscurity, into the fronts of their minds, and drove his heel deep into their psyche. Now, all he had to do was sew it up.
 ‘Might I suggest a solution, gentlemen?’ the Prophet asked.
 ‘Aye,’ said the men.
 ‘Well,’ said The Prophet, ‘We can’t ask the lady to choose randomly. Imagine that, “Pardon us miss, can randomly pick the next men to flirt with you? We can’t decide for ourselves.” And from the sounds of it, some of you wouldn’t be happy with a coin toss, or lottery. And it isn’t as if the two of you look any different now, is it?
