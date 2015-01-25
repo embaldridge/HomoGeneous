@@ -32,10 +32,16 @@ The men let out round of laughter.
 
 "Well let me ask you this," said The Prophet, "Say this goes on for ten more rounds, with one man failing and getting replaced by another. Let’s say the man with lady number two never fails but simply holds her attention. Meanwhile, lady number one is forced to put up with the same two men vying in-turn for her attention because she doesn't want to leave her friend's company. This means that if the two friends working on lady number one have had equal amounts of time, the friend with lady number two has had twice as much time as either of his two friends, averaged together. 
 
-Now, let’s say that in the eleventh round, lady two gets bored with the man who was, up until now, able to hold her attention. At this point there are two available ladies. By your logic, the man who was just out should get a chance with lady he wasn’t with last time, right? Let’s say they hit it off, and leave the tavern. One lady left on planet Earth. By your logic, the friend that was with lady opposite the one now taken should have his chance, correct?’
+Now, let’s say that in the eleventh round, lady two gets bored with the man who was, up until now, able to hold her attention. At this point there are two available ladies, one man talking with woman number one, one man who previously struck-out with woman number 1 and has been waiting, and one man who just struck-out with woman number 2. Does the man waiting to talk to woman number one now try romancing woman number two and does the man who just failed with woman number two now wait to talk to woman number one?" asked The Prophet.
+
+"Well, sure." answered one man, while others shook their heads in agreement. 
+
+"So," continued The Prophet, "the man who was just out should get a chance with a new lady. Let’s say the man who talked so long with lady number two hits it off with lady number one. They leave the tavern and there is now one lady left. By your logic, the two friends who were repeatedly unsuccessful at wooing woman number one now take their changes with lonely woman number two?"
 
 The men agreed, but sensed that they were being led into a trap.
-‘Then, I ask you this. One man has had twice as long as the other, but has not been with the lady in-waiting. The other friend was just with her, but has only had half the time as the other. Who goes? Do they flip for it?
+
+"Then, I ask you this. One man has had twice as long as the other, but has not been with the lady in-waiting. The other friend was just with her, but has only had half the time as the other. Who goes? Do they flip for it?"
+
 ‘Well, one of’em has had twice as much time as the other, the man with less time should go. That’s why we started the whole rotation to begin with,’ one man shouted.
 Some of the men sent up their support.
 ‘Wait a minute now,’ said another man, ‘The other man has just had his chance with that lady and has had many chances with her, but failed. The man with more time that has not been with her should go. I thought we agreed on the rotation plan to make sure that each man gets a fair amount of turns, not time. The man with more time has only had one turn.’
