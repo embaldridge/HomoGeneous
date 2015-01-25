@@ -1,25 +1,22 @@
 #3. The Morning-After Kill
 
-Imagine waking up. Forget how the room might look and what you might look like within it. Forget whether the first hue of light is blue or yellow, or how fuzzy those initial images might have been. Ignore whatever sounds or smells you first experience when waking, whether it's a freshly brewed cup of coffee or the large mammal that just flatulated on your leg. Do not pretend that you emerged from a realistic lucid dream into semi-wakefulness. After all, that would altogether ignores the point that you were, at some point, unconscious. Forget how tired you might feel, and how pulling your head from the pillow might seem like pulling a spider from a glue trap. But then, what's left to think about?
+Think back to waking up. Do not think about how the appearance of the room you woke in. Forget whether the first hue of light was blue or yellow, or how fuzzy those initial images might have been. Ignore whatever sounds or smells you first experience when waking. Rather than pretend that you emerged from a realistic lucid dream into semi-wakefulness, remember that at one point you were thinking when at some point immediately before it, you were not. At some point just prior to waking, you could not account for your own mind and you could not be asked to. Still, you were alive and breathing, and your brain was operating.
 
-Once you wake, what can you possible recall of it other than having woken? What are you left with besides the fact that, at in a fraction of a second, you weren't thinking and then you were. In fact, it's less than a fraction of a second. For all you know, because you can only confirm that you're thinking when you're actually thinking, the change is immediate. You were not accounting for your mind and then you were. Likewise, you feel like shit because you're awake and laying in a bloody mess.
+Once you wake, what can you possible recall of it other than having woken? What are you left with besides the fact that in a fraction of a second, you weren't thinking and then you were. It is less than a fraction of a second and, for all you know, because you can only confirm that you're thinking when you're actually thinking, the change was immediate and, in a way, timeless. You were not accounting for your mind and then you were. Likewise, you feel like shit because you're awake and laying in a bloody mess.
 
-The next morning, the man stood in the bathroom and examined himself in the mirror above the sink. Holding his hands in front of his face with outstretched fingers, he inspected the front, back, digits, and nails of each. He could find no trace of a distinguishing scrape, cut, cuticle, pen-mark, callous, hang-nail, or mole. His hands were well taken care of. His fingernails were cut to length, he had no hang-nails, and his cuticles were clean. He thought to himself, "She could have only seen my hands, face, hair, neck, clothes, and shoes. I didn't wear the same clothes or shoes on both days, so it must be something else." He called to the woman in the bedroom, ‘Can you come here?’
+In the morning after emerging and finishing off what was left of his parents, the man stood in the bathroom and examined himself in the mirror above the sink. Holding his hands in front of his face with outstretched fingers, he inspected the front, back, digits, and nails of each.
 
-The woman from the night before entered in a white robe. "I want you to look and tell me if there is anything different about me, if there is anything that might distinguish me." 
+The woman he woke with entered in a white robe. "Can you look and tell me if there is anything special about me?" he asked.
 
-"Let me see, no, no, turn around, no, no, oh wait."
-"What is it?" he asked.
+"Sure," she answered. "I can look to see if there is anything that might distinguish you. Turn around." She inspected him and then paused, "Well, Your collar is turned up in the back. That's sure to get you noticed." She brought her hands close to his neck and turned down his collar. "Close call", she said.
 
-"Your collar is turned up in the back." She brought her hands close to his neck and turned down his collar. "Close call", she said.
+"Is that it? Besides that, nothing is out of place?" She gave him one last look "You look completely unrecognizable."
 
-"Is that it? Besides that, nothing is out of order?" She gave him one last look "You look completely undistinguished. Feel better?"
+He let go of an anxious breath as she asked, "So, where are you headed off to?"
 
-"Yes, thanks." He let go of a stifled breath as she asked, "So, where are you headed off to?"
+He answered looking at her through the mirror, "I think I'll go to school. There were some interesting notes on it in the kitchen."
 
-"I am going back to school."
-
-His fingers grasped the brass door knob leading to outside freedom, and turned. The heavy door opened and sucked in the first notes of lilac. As the door opened to the outside world, the sun shoved its heavy foot inside and pushed against the door to reveal its withholdings and the dank guts of Brownstone’s insides. The man leaned forward, gathering the momentum to push off from one foot and onto the other, over-coming his inertia and engaging the cool sweetness of the illuminated outside. His eyes gathered the light in heaps and in their haste became dazzled and unable to hold it all. His pupils shrank to pin-points as the Spring air led him by his nose, flaring his nostrils and pulling him into the outside. "Ah, Spring!"
+After dressing and grabbing His fingers grasped the brass door knob leading to outside freedom, and turned. The heavy door opened and sucked in the first notes of lilac. As the door opened to the outside world, the sun shoved its heavy foot inside and pushed against the door to reveal its withholdings and the dank guts of Brownstone’s insides. The man leaned forward, gathering the momentum to push off from one foot and onto the other, over-coming his inertia and engaging the cool sweetness of the illuminated outside. His eyes gathered the light in heaps and in their haste became dazzled and unable to hold it all. His pupils shrank to pin-points as the Spring air led him by his nose, flaring his nostrils and pulling him into the outside. "Ah, Spring!"
 
 It was warm and sunny. "The first this year," he thought. He passed the corner of Steuben and Ganesvoort, and crossed through the field where, on as many days as he could manage, he would lean against the old oak and stare out over the valley. The oak, being an early riser had responded to the Red-winged blackbird's reveille. After taking a few sips of coffee, the man climbed the hill that bordered the causeway, made his way down Rumsey, past McMaster and Washington, and on having arrived back at the school, where he knew his stalker would be waiting.
 
