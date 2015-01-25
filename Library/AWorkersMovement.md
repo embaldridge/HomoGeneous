@@ -13,24 +13,27 @@ The main point of reference to the mill district was the eight sails of two wind
 
 The brewery stood west of Bulker and a stone's throw from the mills. The brewery was the third highest structure in Bath. From the top floor of the six floor building a rat could eat it's fill of grain in the brewery attic, descend the planks and ropes of the brick walls, squeak past the rough cut rafters and floor boards of fifth and fourth floors where the grain gets mashed, and, if it made it past the steaming vats of the third and second floors without being killed, it could sip from spilt remains of newly boiled brew that's ready to be racked and fermented.
 
-The Prophet rode down Ash, past Bulker, turned right onto Debaucher and came to a schoolhouse sized building. Inside, the millworkers and brewers were enjoying their lunch and the smell of freshly planed wood. Having leaned his bike against its side, The Prophet entered the building, walked past the tables of men, and up onto a small raised stage. A few men noticed, but most kept eating and talking. 
+The Prophet rode down Ash, turned onto Debaucher, and came to a building the size of a one-room schoolhouse. Inside, the millworkers and brewers were enjoying their lunch and the smell of freshly planed wood. The Prophet leaned his bike against its side and entered the building. He walked past the tables of men and up onto a small raised stage that was normally used for town hall meetings. A few men noticed, but most kept eating.
 
-The Prophet spoke "Three men walk into a pub and upon getting’ their drinks, spy the last two women on Earth at the end of the bar. Given the number of men to women, the men decide to draw straws. Two will get a chance to secure the last two females on Earth, and one must wait for one of the other two to fail. What does the poor unlucky guy do?" 
-
-Thirty men now looked up from their lunches and, in giving each other shrugs of perplexity, looked to the back of break house. 
+The Prophet spoke, "Three men walk into a pub and spy the last two women left alive at the end of the bar. Given the number of men and women, and the need to perpetuate our species, the men decide to draw straws to see who will get the first opportunity to address the women. While two will get first dibs, one must wait for one of the other two to fail to impress. What does the poor unlucky guy do?" Thirty men now looked up from their lunches. Most looked less than impressed.
 
 "Well, does one of you have an answer?” asked The Prophet.
 "He should wait his damn turn!" came a shout.
-"Fair’s fair!" shouted another, "He’ll get another chance before long!"
+"Fair’s fair." said another, "He’ll get another chance before long, since one of the other two is bound to embarrass himself."
 The men let out round of laughter.
 
-‘Good, good,’ says The Prophet to himself, ‘I’ve got their interest.’
-‘Well, let’s suppose one man fails, and opens the floor to the other. Does the man that just failed get to draw against the man-out or does the man out just get to try his luck with the unoccupied lady?’
-‘Aye, he get’s his fair chance with the lady!’ shouted one man.
-‘The man out shouldn’t need to draw against a man that just had his fair chance and blew it!’ said another.
-‘So you all suggest that the men just rotate until one of them pushes the right buttons, seein’ the persistent cocks don’t scare off the hens?’
-‘Aye,’ said the men in near unison.
-‘Well let me ask you this,’ said The Prophet, ‘Say this goes on for ten more rounds, with one man failing and getting replaced by another. Let’s say the man with lady number two never fails but holds her attention while the other two take turns trying to make a favorable impression on lady number one. This means that if the two friends working on lady number one have had equal amounts of time, the friend with lady number two has had twice as much time as either of friends. Now, let’s say that in the eleventh round both friends strike-out. Now, there’s two available ladies. By your logic, the man who was just out should get a chance with lady he wasn’t with last time, right? Let’s say they hit it off, and leave the tavern. One lady left on planet Earth. By your logic, the friend that was with lady opposite the one now taken should have his chance, correct?’
+"Well, let’s suppose one does fail and opens the door to the other," said The Prophet. "Does the man that just failed get to draw against the man-out or does the man out simply get to try his luck with the un-impressed lady?"
+
+"He get’s his due chance!" said one man. "The man out shouldn’t need to draw against a man that just had his fair chance and blew it." said another.
+
+"So you all suggest that the men just rotate until one of them pushes the right buttons?"
+
+"That's right." said the men in near unison.
+
+"Well let me ask you this," said The Prophet, "Say this goes on for ten more rounds, with one man failing and getting replaced by another. Let’s say the man with lady number two never fails but simply holds her attention. Meanwhile, lady number one is forced to put up with the same two men vying in-turn for her attention because she doesn't want to leave her friend's company. This means that if the two friends working on lady number one have had equal amounts of time, the friend with lady number two has had twice as much time as either of his two friends, averaged together. 
+
+Now, let’s say that in the eleventh round, lady two gets bored with the man who was, up until now, able to hold her attention. At this point there are two available ladies. By your logic, the man who was just out should get a chance with lady he wasn’t with last time, right? Let’s say they hit it off, and leave the tavern. One lady left on planet Earth. By your logic, the friend that was with lady opposite the one now taken should have his chance, correct?’
+
 The men agreed, but sensed that they were being led into a trap.
 ‘Then, I ask you this. One man has had twice as long as the other, but has not been with the lady in-waiting. The other friend was just with her, but has only had half the time as the other. Who goes? Do they flip for it?
 ‘Well, one of’em has had twice as much time as the other, the man with less time should go. That’s why we started the whole rotation to begin with,’ one man shouted.
