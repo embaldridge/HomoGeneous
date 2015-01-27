@@ -1,0 +1,13 @@
+# A memorable dream
+
+**27 Jan 2015:** Last night, I dreamt that I was at a low-grade custom jeweler having a necklace made. The necklace was the kind one would see in a late 1990's rap video, with large block letters in white and yellow gold. Because I'm the farthest thing from a gangster apart from a priest, it was not a very gangster necklace. In fact, the symbols on it read, "24-7-Science-24-7-Science" along with a few characters that I don't remember.
+
+One might interpret my dream as first, I think about science a lot or that I feel pressured by my own expectations to be a scientist 24 hours a day and 7 days a week. I would have agreed with that. You would have to draw your own conclusions about why the necklace was 'gangsta'.
+
+More interesting than the necklace, was its length. The necklace was already too small and because this was a dream and in dreams, we make nonsensical decision that seem sensical, the jeweler and I decided the necklace should be shortened. Now, the necklace would fit a like a two-inch wide golden choker. But, ahead we went.
+
+The next 'scene' was the attachment phase and the only thing I saw was me seeing how the necklace would be attached to my neck. That is, I was looking at my neck from the perspective of someone else because the perspective would otherwise require my eyeballs to be positioned at my throat and to protrude like those of a shrimp. The entire remainder of the dream was a picture of large gauge needle being repeatedly pushed and pulled through a single hole in my neck. 
+
+The jeweler was pushing it in from the back and I was seeing it exit and reenter from the front. This was done at a rate of a medium speed sewing machine, yet this repeated piercing was all that was being done. According to the jeweler, though it was like I was remember her saying it than hearing her saying it, this was done to enlarge the hole. I don't know why. Even more odd was that I wasn't bleeding. In fact, the scene looked more like the picture of someone running a large needle through a piece of raw chicken.
+
+Funny thing, though, was that this didn't seem like a nightmare when I was experiencing it. In fact, the voice of the jeweler was a nice rendition of Brenda, a beautiful Mexican-American ex-girlfriend of mine who was ten times nice and had four times the sense of humor as myself. She was probably 40 forty times more likely to live longer.
