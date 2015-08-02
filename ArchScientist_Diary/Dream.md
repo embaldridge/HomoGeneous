@@ -1,6 +1,6 @@
 # A memorable dream
 
-**27 Jan 2015:** Last night, I dreamt that I was at a low-grade custom jeweler having a necklace made. The necklace was the kind one would see in a late 1990's rap video, with large block letters in white and yellow gold. Because I'm the farthest thing from a gangster apart from a priest, it was not a very gangster necklace. In fact, the symbols on it read, "24-7-Science-24-7-Science" along with a few characters that I don't remember.
+**27 Jan 2015:** Last night, I dreamt I was at a low-grade jeweler having a necklace made to fit. This was a necklace was the type you'd see in a late 1990's rap video. It had large block letters in white and yellow gold. Now, I'm the farthest thing from a gangster apart from a priest, it was not a very gangster necklace. In fact, the symbols on it read, "24-7-Science-24-7-Science" along with a few characters that I don't remember.
 
 One might interpret my dream as first, I think about science a lot or that I feel pressured by my own expectations to be a scientist 24 hours a day and 7 days a week. I would have agreed with that. You would have to draw your own conclusions about why the necklace was 'gangsta'.
 
