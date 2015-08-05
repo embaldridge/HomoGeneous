@@ -1,6 +1,6 @@
 #An Introduction to *Homo geneous*
 
-I've set aside these notes from early seminars with instructions for my confidant to distribute freely them. As you read these few choice pages, know that I, like any scientist, never knows the entire truth behind our own discoveries. But, as I said before, I am no scientist.
+I've set aside these notes from early seminars with instructions for my assistant to distribute them. As you read these choice pages, know that no scientist ever knows the truth. Me, I claim to know very little.
 
 ## SociobiologyI will begin with an account of the sociobiology of *Homo geneous*. Perhaps, the first thing to note is that all males look and act alike, as do all females. In my three solitary years of studying them, I only ever once witnessed an interaction indicating that any of them could recognize any of them. In fact, they seemed to make every effort to remain completely anonymous.
 There is no family structure, no personal wealth, no permanent occupations, and no names. I concluded that this was because all of these would establish recognizable identities. Of course, there was wealth and there were occupations, though these were distributed equitably on a *per diem* basis. Whatever you were on a given day, in a particular place, at a specific moment would only temporarily brand you with a label, which could only loosely be interpreted as a name.
