@@ -70,8 +70,8 @@ def HeSaysSheSays():
     says("But, how can you? Nobody can do that. Nobody would want to do that!\n\n")
     time.sleep(0.8)
     
-    says("I know this comes as a shock but a day ago in the schoolyard,\n")
-    says("I realized that I kept picking-out the same man. I couldn't help it. \n\n") 
+    says("I know this comes as a shock, but a day ago in the schoolyard \n")
+    says("I realized that I kept picking out the same man. I couldn't help it. \n\n") 
     time.sleep(0.8)
     
     says("Oh yes you could have! You could have just ignored it. You could have\n")
@@ -85,7 +85,7 @@ def HeSaysSheSays():
     time.sleep(0.8)
     says("Something about you struck me as different.\n") 
     time.sleep(0.8)
-    says("I mean, don't get me wrong. As far as I can tell,\n")
+    says("I mean, don't get me wrong. As far as I can tell \n")
     time.sleep(0.8)
     says("you look the same as every other man.\n")
     time.sleep(0.8)
@@ -93,7 +93,7 @@ def HeSaysSheSays():
     # She paused...
     says("But, when you got up and mingled with the others, I found that I could follow you.\n") 
     time.sleep(0.8)
-    says("When other people mingle they almost immediately got lost in the crowd.\n") 
+    says("When other people mingle, they almost immediately got lost in the crowd.\n") 
     time.sleep(0.8)
     says("But I could easily pick you out. I have no idea how or why.") 
     
@@ -106,7 +106,7 @@ def HeSaysSheSays():
     
     says("Yesterday, I was in the school courtyard, when I realized that I")
     says(" kept looking at the same man. I passed you on a bench while you were")
-    says(" eating.\nI had to look back because I felt like...\nlike I had seen you before.\n\n")
+    says(" eating. \nI had to look back because I felt like...\nlike I had seen you before.\n\n")
     time.sleep(0.8)
     
     says("That's impossible!\n\n")
@@ -118,7 +118,7 @@ def HeSaysSheSays():
     says("whom I previously saw and recognized!\n\n")
     time.sleep(0.8)
     
-    says("This, a joke! You're playing a joke on me, that's all.\n\n")
+    says("This is a joke! You're playing a joke on me, that's all.\n\n")
     time.sleep(0.8)
     
     says("No, I swear.\nAnd now that I can recognize you,\nand now that we have met,\n")
@@ -173,21 +173,21 @@ def HeSaysSheSays():
     says("Okay.\n")
     says("I've had enough.\n")
     says("You, miss, are deluded. And, if you do not stop with this delusion,\n")
-    says("I will cannot help you. I will shout Lunatic.\n\n")
+    says("I will, cannot help you. I will shout Lunatic.\n\n")
     time.sleep(0.8)
     
     says("Please. Just check it!\n\n")
     time.sleep(0.8)
     says("I can't believe I'm doing this. But, if it'll please you I'll...")
     time.sleep(0.8)
-    says(" What the?\n\n")
+    says(" What the...?\n\n")
     time.sleep(0.8)
     
     says("See?\n\n")
     time.sleep(0.8)
     
     says("Yes, I see there is a piece of paper in my pocket.\n")
-    says("You're some kind of psychic,")
+    says("You're some kind of psychic.")
     time.sleep(0.6)
     says("What next?\n")
     time.sleep(0.8)
@@ -209,7 +209,7 @@ def HeSaysSheSays():
     time.sleep(0.8)
     
     says("It's not a game. Please, just read it.\n")
-    says("Then, you will that it doesn't matter when I put it")
+    says("Then, you will see that it doesn't matter when I put it")
     says(" in your pocket.\n\n")
     time.sleep(0.8)
     
@@ -229,11 +229,11 @@ def HeSaysSheSays():
     says("No, no. Please don't.\n\n")
     time.sleep(0.8)
     
-    says("Lunatic! ")
+    says("LUNATIC! ")
     time.sleep(0.8)
-    says("Lunatic! ")
+    says("LUNATIC! ")
     time.sleep(0.8)
-    says("Lunatic!\n\n")
+    says("LUNATIC!\n\n")
     time.sleep(0.8)
     
     says("Why did you do that?\n\n")
@@ -256,7 +256,7 @@ def HeSaysSheSays():
     time.sleep(0.8)
     
     says("You had better run. You've got maybe a minute.\n")
-    says("Well, just don't stand there. ")
+    says("Well, just don't stand there! ")
     time.sleep(0.8)
     says("Get out of here!\n")
     time.sleep(0.8)
